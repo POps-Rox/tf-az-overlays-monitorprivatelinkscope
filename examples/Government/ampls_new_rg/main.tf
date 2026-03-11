@@ -2,7 +2,7 @@
 # Licensed under the MIT License.
 
 module "mod_ampls" {
-  #source  = "azurenoops/overlays-azure-monitor-private-link-scope/azurerm"
+  #source  = "github.com/POps-Rox/tf-az-overlays-monitorprivatelinkscope"
   #version = "x.x.x"
   source = "../../.."
 
